@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url(../img/fondo.jpg);
+    background-position: center;
+    font-family: sans-serif;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    background:url(../img/fondo.jpg);
+    background-position: center;
+}
+
+.carrusel{
+    width: 700px;
+    height: 500px;
+    margin: 10px auto 0;
+}
+
+.titulo{
+    background-image: url(../img/bannan.jpg);
+    height: auto;
+}
+.titulo2{
+    background-image: url(../img/bannanhojas.jpeg);
+    height: 100px;
+}
+
+.contenedor1{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(194, 189, 179 , 0.5);
+    display: flex;
+}
+
+
+.contenedor2{
+    background-color:rgb(194, 189, 179 , 0.0);
+    width: 50%;
+        margin: 20px;
+}
+
+.texto{
+    font-size:50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto1{
+    text-align: center;
+    font-size: 17px;
+}
+
+
+
+.textoNosotros1{
+    font-size: 60px;
+    text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pNosotros{
+    margin: 5%;
+    padding: 15%s;
+    text-align: center;
+   color: aliceblue;
+   font-size: 30px;
+}
+
+.container{
+    position: relative;
+    width: 70%;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+  
+.izquierda, .derecha {
+    position: absolute;
+    width: 15%;
+    height: 100%;
+}
+  
+.izquierda {
+    left: 0;
+}
+  
+.derecha {
+    right: 0;
+}
+
+.textoRedes{
+    font-size:50px;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.SaludDelTe{
+    text-align: center;font-size: 50px;
+}
+.Salud{
+    text-align: center;
+}
+.hblog{
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.desc{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.row{
+    padding: 20px;
+}
+.textinho{
+  text-align: left;
+  margin-left: 5%;
+  color: white;
+  background-color: rgb(99, 98, 96, 0.8);
+ }
+ 
+
+.textinho1{
+    text-align: left;
+    margin-left: 5%;
+    color: white;
+}
+
+.tituloSalud{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.card-body1{
+    background:url(../img/ig.jpg);
+}
+.card-body{
+    background-color: rgb(235, 219, 199);
+    
+}
+
+.pModal{
+    text-align: center;
+    font-size: 20px;
+}
+
+.TituloCategoria{
+    font-size:50px;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.titulo2Categoria{
+    font-size:30px;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+.textoCategoria{
+    font-size:20px;
+    text-align:center;
+    color: aliceblue;
+}
+
+.contenedorCategoria{
+    background-color: rgb(156, 153, 149, 0.6);
+    height: auto;
+}
